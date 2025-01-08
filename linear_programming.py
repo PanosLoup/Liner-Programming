@@ -36,3 +36,4 @@ print(f"Προϊόν Β: {res.x[1]:.2f}")
 print(f"Προϊόν Γ: {res.x[2]:.2f}")
 print(f"Προϊόν Δ: {res.x[3]:.2f}")
 print(f"Μέγιστο κέρδος: {-res.fun:.2f} ευρώ")
+.github/workflows/main.yml
